@@ -1,5 +1,7 @@
 # windows10
-windows 10 ile gelen uygulamaları otomatik kaldırma
+windows 10 ile gelen uygulamaları otomatik kaldırmaya yarıyor teker teker power sheel e yazmaktansa böyle birşey yaptım
+
+NOT: Yönetici OLARAK ÇALIŞTIRIN
 
 
 Kolaylık : Hazırladığımız Listeyi Kullanarak Belirli Uygulamaları Kaldırmak
